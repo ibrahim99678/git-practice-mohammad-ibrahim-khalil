@@ -1,4 +1,12 @@
 # Git Practice Assignment
 
-**Student Name:** Mohammad Ibrahim khalil  
-**Description:** A simple Python project demonstrating basic Git workflows, branching, merging, and GitHub integration.
+## Overview
+This repository contains a simple Python program used to demonstrate practical Git operations including commits, branching, merging, and remote syncing.
+
+## Author
+* **Name:** Mohammad Ibrahim khalil
+* **Course:** Git & GitHub Practical
+
+## How to Run
+``bash
+python src/main.py
